@@ -1,0 +1,29 @@
+@font-face {
+  font-family: montserrat;
+  src: url(Montserrat-Bold.ttf);
+}
+
+body {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-content: center;
+  font-family: montserrat;
+  background: #1d2634;
+}
+
+.App{
+  display: grid;
+  place-content: center;
+}
+
+.header{
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  background: -webkit-linear-gradient(#00ecd2, #00bfe3);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
