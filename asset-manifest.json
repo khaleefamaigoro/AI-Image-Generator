@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ai-image-generator/static/css/main.4c1a719c.css",
+    "main.js": "/ai-image-generator/static/js/main.fa5b2c3d.js",
+    "static/js/787.4a75ddaf.chunk.js": "/ai-image-generator/static/js/787.4a75ddaf.chunk.js",
+    "static/media/Montserrat-Bold.ttf": "/ai-image-generator/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
+    "static/media/luca.jpg": "/ai-image-generator/static/media/luca.b74f0b9922515acf05ba.jpg",
+    "static/media/AI.png": "/ai-image-generator/static/media/AI.345cb8d537de90d22df2.png",
+    "index.html": "/ai-image-generator/index.html",
+    "main.4c1a719c.css.map": "/ai-image-generator/static/css/main.4c1a719c.css.map",
+    "main.fa5b2c3d.js.map": "/ai-image-generator/static/js/main.fa5b2c3d.js.map",
+    "787.4a75ddaf.chunk.js.map": "/ai-image-generator/static/js/787.4a75ddaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c1a719c.css",
+    "static/js/main.fa5b2c3d.js"
+  ]
+}
